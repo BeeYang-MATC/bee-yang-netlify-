@@ -12,7 +12,6 @@ const GlobalStyle = createGlobalStyle`
   body {
     margin: 0;
   }
-
   img {
     max-width: 100%;
     margin-left: 0;
@@ -24,7 +23,6 @@ const GlobalStyle = createGlobalStyle`
     padding-top: 0;
     margin-bottom: 1.45rem;
   }
-
   li {
   margin-bottom: calc(1.45rem / 2);
   }
@@ -47,7 +45,6 @@ const GlobalStyle = createGlobalStyle`
   li *:last-child {
     margin-bottom: 0;
   }
-
 `;
 
 export default GlobalStyle;
